@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fead5d03-96a5-4333-b0aa-32ebb6c859fb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Sample Project/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Sample Project/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Scripts/Generic Controller's/InventoryManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Scripts/Generic Controller's/InventoryManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Extensions/RiderFlow.UserData.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Extensions/RiderFlow.UserData/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Extensions/RiderFlow.UserData/Editor/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Extensions/RiderFlow.UserData/Editor/Scenes/Sections.Map.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Extensions/RiderFlow.UserData/Editor/Scenes/Sections.Map/9fc0d4010bbf28b4594072e72b8655ab.userdata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Extensions/RiderFlow.UserData/Editor/Scenes/Sections.Map/9fc0d4010bbf28b4594072e72b8655ab.userdata.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Level/Scenes/Gameplay.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Level/Scenes/Gameplay.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2019.4.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2019.4/EnhancedHierarchyIntegration.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2019.4/EnhancedHierarchyIntegration/OpenedPrefabPreviewTrackerIntegration.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2019.4/EnhancedHierarchyIntegration/OpenedPrefabPreviewTrackerIntegration.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2019.4/EntryPoint.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2019.4/EntryPoint.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2019.4/JetBrains.Frontend.2019.4.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2019.4/JetBrains.Frontend.2019.4.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2019.4/LogProgressManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2019.4/LogProgressManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2019.4/SearchWindowSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2019.4/SearchWindowSettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2020.2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2020.2/EnhancedHierarchyIntegration.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2020.2/EnhancedHierarchyIntegration/OpenedPrefabPreviewTrackerIntegration.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2020.2/EnhancedHierarchyIntegration/OpenedPrefabPreviewTrackerIntegration.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2020.2/EntryPoint.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2020.2/EntryPoint.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2020.2/JetBrains.Frontend.2020.2.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2020.2/JetBrains.Frontend.2020.2.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2020.2/ProgressManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2020.2/ProgressManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2020.2/RecentFilesCache.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2020.2/RecentFilesCache.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2020.2/SearchWindowSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2020.2/SearchWindowSettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2021.2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2021.2/EnhancedHierarchyIntegration.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2021.2/EnhancedHierarchyIntegration/OpenedPrefabPreviewTrackerIntegration.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2021.2/EnhancedHierarchyIntegration/OpenedPrefabPreviewTrackerIntegration.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2021.2/EntryPoint.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2021.2/EntryPoint.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2021.2/JetBrains.Frontend.2021.2.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2021.2/JetBrains.Frontend.2021.2.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2021.2/ProgressManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2021.2/ProgressManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2021.2/RecentFilesCache.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2021.2/RecentFilesCache.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2021.2/SceneIntegration.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2021.2/SceneIntegration/NewToolbarCompositeAltActionProvider.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2021.2/SceneIntegration/NewToolbarCompositeAltActionProvider.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2021.2/SceneIntegration/RiderFlowEditorToolbarButton.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2021.2/SceneIntegration/RiderFlowEditorToolbarButton.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2021.2/SceneIntegration/RiderFlowEditorToolbarToggle.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2021.2/SceneIntegration/RiderFlowEditorToolbarToggle.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2021.2/SceneIntegration/RiderFlowSceneToolbarRoot.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2021.2/SceneIntegration/RiderFlowSceneToolbarRoot.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2021.2/SceneIntegration/RiderFlowToolbarConstants.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2021.2/SceneIntegration/RiderFlowToolbarConstants.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2021.2/SceneIntegration/SceneOccurrenceEffectToggle.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2021.2/SceneIntegration/SceneOccurrenceEffectToggle.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2021.2/SceneIntegration/SceneOccurrenceToolExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2021.2/SceneIntegration/SceneOccurrenceToolExtensions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2021.2/SceneIntegration/SceneSearchToggle.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2021.2/SceneIntegration/SceneSearchToggle.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2021.2/SceneIntegration/SceneToolbar.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2021.2/SceneIntegration/SceneToolbar.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2021.2/SceneIntegration/SceneViewToolsExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2021.2/SceneIntegration/SceneViewToolsExtensions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2021.2/SceneIntegration/ShowUsagesExplorerButton.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2021.2/SceneIntegration/ShowUsagesExplorerButton.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2021.2/SceneIntegration/VisualElementToolbarDisplay.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2021.2/SceneIntegration/VisualElementToolbarDisplay.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2021.2/SearchWindowSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/2021.2/SearchWindowSettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/EULA.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/EULA.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/LogConfiguration.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/LogConfiguration/backend-log.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/LogConfiguration/backend-log.xml.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/LogConfiguration/frontend-log.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/LogConfiguration/frontend-log.xml.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Completion.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Completion/completion_pin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Completion/completion_pin.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Completion/completion_pin@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Completion/completion_pin@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Completion/completion_pin_dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Completion/completion_pin_dark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Completion/completion_pin_dark@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Completion/completion_pin_dark@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Completion/completion_unpin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Completion/completion_unpin.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Completion/completion_unpin@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Completion/completion_unpin@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Completion/completion_unpin_dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Completion/completion_unpin_dark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Completion/completion_unpin_dark@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Completion/completion_unpin_dark@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_collapse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_collapse.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_collapse@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_collapse@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_collapse_dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_collapse_dark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_collapse_dark@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_collapse_dark@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_expand.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_expand.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_expand@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_expand@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_expand_dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_expand_dark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_expand_dark@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_expand_dark@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_grouping.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_grouping.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_grouping@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_grouping@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_grouping_dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_grouping_dark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_grouping_dark@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_grouping_dark@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_next_result.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_next_result.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_next_result@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_next_result@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_next_result_dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_next_result_dark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_next_result_dark@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_next_result_dark@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_prev_result.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_prev_result.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_prev_result@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_prev_result@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_prev_result_dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_prev_result_dark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_prev_result_dark@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_prev_result_dark@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_preview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_preview.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_preview@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_preview@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_preview_dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_preview_dark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_preview_dark@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/FindUsages/find_usages_preview_dark@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Fonts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Fonts/JetBrainsMono-1.0.3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Fonts/JetBrainsMono-1.0.3/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Fonts/JetBrainsMono-1.0.3/LICENSE.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Fonts/JetBrainsMono-1.0.3/ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Fonts/JetBrainsMono-1.0.3/ttf/JetBrainsMono-Bold-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Fonts/JetBrainsMono-1.0.3/ttf/JetBrainsMono-Bold-Italic.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Fonts/JetBrainsMono-1.0.3/ttf/JetBrainsMono-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Fonts/JetBrainsMono-1.0.3/ttf/JetBrainsMono-Bold.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Fonts/JetBrainsMono-1.0.3/ttf/JetBrainsMono-ExtraBold-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Fonts/JetBrainsMono-1.0.3/ttf/JetBrainsMono-ExtraBold-Italic.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Fonts/JetBrainsMono-1.0.3/ttf/JetBrainsMono-ExtraBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Fonts/JetBrainsMono-1.0.3/ttf/JetBrainsMono-ExtraBold.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Fonts/JetBrainsMono-1.0.3/ttf/JetBrainsMono-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Fonts/JetBrainsMono-1.0.3/ttf/JetBrainsMono-Italic.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Fonts/JetBrainsMono-1.0.3/ttf/JetBrainsMono-Medium-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Fonts/JetBrainsMono-1.0.3/ttf/JetBrainsMono-Medium-Italic.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Fonts/JetBrainsMono-1.0.3/ttf/JetBrainsMono-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Fonts/JetBrainsMono-1.0.3/ttf/JetBrainsMono-Medium.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Fonts/JetBrainsMono-1.0.3/ttf/JetBrainsMono-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Fonts/JetBrainsMono-1.0.3/ttf/JetBrainsMono-Regular.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/HDRPSceneHighlighting.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/HDRPSceneHighlighting.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Logo.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Logo/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Logo/logo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Logo/logo@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Logo/logo@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/ReEditor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/ReEditor/RiderDark.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/ReEditor/RiderDark.xml.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/ReEditor/RiderLight.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/ReEditor/RiderLight.xml.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/ReEditor/save.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/ReEditor/save.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/ReEditor/save@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/ReEditor/save@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/ReEditor/save_and_rebuild.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/ReEditor/save_and_rebuild.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/ReEditor/save_and_rebuild@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/ReEditor/save_and_rebuild@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/ReEditor/save_and_rebuild_dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/ReEditor/save_and_rebuild_dark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/ReEditor/save_and_rebuild_dark@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/ReEditor/save_and_rebuild_dark@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/ReEditor/save_dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/ReEditor/save_dark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/ReEditor/save_dark@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/ReEditor/save_dark@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/RiderFlowResourceMarker.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/RiderFlowResourceMarker.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/SceneHierarchy.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/SceneHierarchy/scene_hierarchy_bookmark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/SceneHierarchy/scene_hierarchy_bookmark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/SceneHierarchy/scene_hierarchy_bookmark@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/SceneHierarchy/scene_hierarchy_bookmark@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/SceneHierarchy/scene_hierarchy_bookmark_dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/SceneHierarchy/scene_hierarchy_bookmark_dark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/SceneHierarchy/scene_hierarchy_bookmark_dark@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/SceneHierarchy/scene_hierarchy_bookmark_dark@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/SceneHierarchy/scene_hierarchy_edit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/SceneHierarchy/scene_hierarchy_edit.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/SceneHierarchy/scene_hierarchy_edit@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/SceneHierarchy/scene_hierarchy_edit@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/SceneHierarchy/scene_hierarchy_edit_dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/SceneHierarchy/scene_hierarchy_edit_dark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/SceneHierarchy/scene_hierarchy_edit_dark@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/SceneHierarchy/scene_hierarchy_edit_dark@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/SceneHighlighting.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/SceneHighlighting.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Search.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Search/move_handle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Search/move_handle.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Search/move_handle@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Search/move_handle@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Search/move_handle_dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Search/move_handle_dark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Search/move_handle_dark@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Search/move_handle_dark@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Search/search_small.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Search/search_small.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Search/search_small@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Search/search_small@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Search/search_small_dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Search/search_small_dark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Search/search_small_dark@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Search/search_small_dark@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/SearchEverywhereNew.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/SearchEverywhereNew/search_everywhere_browser.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/SearchEverywhereNew/search_everywhere_browser.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/SearchEverywhereNew/search_everywhere_browser@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/SearchEverywhereNew/search_everywhere_browser@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/SearchEverywhereNew/search_everywhere_browser_dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/SearchEverywhereNew/search_everywhere_browser_dark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/SearchEverywhereNew/search_everywhere_browser_dark@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/SearchEverywhereNew/search_everywhere_browser_dark@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/SearchEverywhereNew/search_everywhere_filter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/SearchEverywhereNew/search_everywhere_filter.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/SearchEverywhereNew/search_everywhere_filter@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/SearchEverywhereNew/search_everywhere_filter@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/SearchEverywhereNew/search_everywhere_filter_dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/SearchEverywhereNew/search_everywhere_filter_dark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/SearchEverywhereNew/search_everywhere_filter_dark@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/SearchEverywhereNew/search_everywhere_filter_dark@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_bookmark_tool.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_bookmark_tool.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_bookmark_tool@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_bookmark_tool@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_bookmark_tool_dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_bookmark_tool_dark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_bookmark_tool_dark@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_bookmark_tool_dark@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_camera_tool.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_camera_tool.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_camera_tool@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_camera_tool@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_camera_tool_dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_camera_tool_dark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_camera_tool_dark@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_camera_tool_dark@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_camera_viewer_tool.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_camera_viewer_tool.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_camera_viewer_tool@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_camera_viewer_tool@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_camera_viewer_tool_dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_camera_viewer_tool_dark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_camera_viewer_tool_dark@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_camera_viewer_tool_dark@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_next_result.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_next_result.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_next_result@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_next_result@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_next_result_dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_next_result_dark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_next_result_dark@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_next_result_dark@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_prev_result.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_prev_result.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_prev_result@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_prev_result@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_prev_result_dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_prev_result_dark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_prev_result_dark@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_prev_result_dark@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_scene_effect.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_scene_effect.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_scene_effect@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_scene_effect@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_scene_effect_dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_scene_effect_dark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_scene_effect_dark@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_scene_effect_dark@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_search_tool.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_search_tool.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_search_tool@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_search_tool@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_search_tool_dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_search_tool_dark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_search_tool_dark@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/Toolbar/toolbar_search_tool_dark@2x.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/URPSceneHighlighting.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/InstallationData/Resources/URPSceneHighlighting.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/JetBrains.Lifetimes.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/JetBrains.Lifetimes.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/JetBrains.RdFramework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/JetBrains.RdFramework.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/JetBrains.RiderFlow.Models.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/JetBrains.RiderFlow.Models.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/JetBrains.RiderFlow.Repacked.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/JetBrains.RiderFlow.Repacked.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/build.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/build.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.RiderFlow/package.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RiderFlow.UserData.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RiderFlow.UserData/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RiderFlow.UserData/Editor/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RiderFlow.UserData/Editor/Scenes/Sections.Map.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RiderFlow.UserData/Editor/Scenes/Sections.Map/9fc0d4010bbf28b4594072e72b8655ab.userdata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RiderFlow.UserData/Editor/Scenes/Sections.Map/9fc0d4010bbf28b4594072e72b8655ab.userdata.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RiderFlow.UserData/Editor/Scenes/Sections.Map/c082b93d55a85ce47941cab8c81e24da.userdata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RiderFlow.UserData/Editor/Scenes/Sections.Map/c082b93d55a85ce47941cab8c81e24da.userdata.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RiderFlow.UserData/Editor/Scenes/Sections.Map/ffe589ecf198a82408832a95b18af0d0.userdata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RiderFlow.UserData/Editor/Scenes/Sections.Map/ffe589ecf198a82408832a95b18af0d0.userdata.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Scripts/Generic Controller's/GameController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Scripts/Generic Controller's/ApplicationController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Scripts/Generic Controller's/DataController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Scripts/Sound Sys/GameplaySoundController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Scripts/Generic Controller's/InventoryManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Scripts/Generic Controller's/ModeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Scripts/Sound Sys/AudioLibrary.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Code/Scripts/Generic Controller's/ModeController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Scripts/Generic Controller's/GameController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Scripts/Sound Sys/AudioLibrary.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Scripts/Generic Controller's/InventoryManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2KXZzYPYgOlWSvhN3ORq6pWgUgq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="TWShift.4" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fead5d03-96a5-4333-b0aa-32ebb6c859fb" name="Default Changelist" comment="" />
+      <created>1656584273978</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656584273978</updated>
+      <workItem from="1656584276283" duration="397000" />
+      <workItem from="1674123158719" duration="822000" />
+      <workItem from="1674577775143" duration="626000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
